@@ -1,0 +1,10 @@
+{
+  "mode": "IOT",
+  "iot_endpoints": {
+    "1": "http://192.168.1.100/api/light1/toggle",
+    "2": "http://192.168.1.100/api/light2/toggle",
+    "3": "http://192.168.1.100/api/fan/on",
+    "4": "http://192.168.1.100/api/ac/temp/24",
+    "5": "http://192.168.1.100/api/master/off"
+  }
+}

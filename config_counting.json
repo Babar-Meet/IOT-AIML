@@ -1,0 +1,10 @@
+{
+  "mode": "Counting",
+  "iot_endpoints": {
+    "1": "Visual feedback only",
+    "2": "Visual feedback only",
+    "3": "Visual feedback only",
+    "4": "Visual feedback only",
+    "5": "Visual feedback only"
+  }
+}
